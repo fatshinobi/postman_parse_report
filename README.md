@@ -10,7 +10,7 @@ To parse into csv file:
 $ python3.10 main.py csv /home/fat_shinobi/report.json /home/fat_shinobi/api_result.csv
 ```
 
-To parse into csv file::
+To parse into pdf file::
 ```bash
 $ python3.10 main.py pdf /home/fat_shinobi/report.json /home/fat_shinobi/api_result.pdf
 ```
